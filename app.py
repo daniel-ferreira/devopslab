@@ -6,4 +6,4 @@ csrf = CSRFProtect(app)
 
 @app.route("/")
 def pagina_inicial():
-    return "Entrefa do Solution Sprint"
+    return "Entrega Final do Solution Sprint"
